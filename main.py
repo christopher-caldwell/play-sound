@@ -18,6 +18,5 @@ def play_selected_sound(song):
         play_selected_sound()
     exit
 
-
 if __name__ == '__main__':
     play_selected_sound()
